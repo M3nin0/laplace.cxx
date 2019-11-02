@@ -10,6 +10,8 @@ float det1x1(Matrix * matrix) {
 }
 
 float det2x2(Matrix * matrix) {
+    verifyDimensions(matrix, 2, 2);
+
     float a0xa4 = matrix->data[0][0] * matrix->data[1][1];
     float a1xa3 = matrix->data[0][1] * matrix->data[1][0];
 

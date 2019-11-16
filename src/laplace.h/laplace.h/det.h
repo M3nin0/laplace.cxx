@@ -1,5 +1,3 @@
-// #include "matrix.h"
-
 /**
  * Function: det1x1
  * -----------------

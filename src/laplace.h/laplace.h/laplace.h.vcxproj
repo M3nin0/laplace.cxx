@@ -127,7 +127,7 @@
     <ClInclude Include="matrix.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Origem.cpp" />
+    <ClCompile Include="det.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

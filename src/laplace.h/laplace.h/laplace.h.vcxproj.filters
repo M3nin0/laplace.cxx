@@ -23,8 +23,8 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Origem.cpp">
-      <Filter>Arquivos de Recurso</Filter>
+    <ClCompile Include="det.cpp">
+      <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

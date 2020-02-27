@@ -1,4 +1,5 @@
 #ifndef _DIMENSION_HEADER_
+#define _DIMENSION_HEADER_
 
 namespace Laplace
 {

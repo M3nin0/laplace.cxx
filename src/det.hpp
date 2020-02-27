@@ -1,4 +1,5 @@
 #ifndef _DET_HEADER_
+#define _DET_HEADER_
 
 namespace Laplace
 {
